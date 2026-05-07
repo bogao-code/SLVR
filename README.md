@@ -1,4 +1,4 @@
-# PinReason v2 for Qwen2.5-VL
+# SLVR for Qwen2.5-VL
 
 This directory contains the training and evaluation code for PinReason v2 on
 Qwen2.5-VL. The method trains typed latent visual reasoning blocks from
