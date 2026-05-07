@@ -1,0 +1,11 @@
+accelerate>=0.30.0
+Pillow>=10.0.0
+qwen-vl-utils>=0.0.8
+safetensors>=0.4.0
+tensorboard>=2.14.0
+torch>=2.2.0
+torchvision>=0.17.0
+tqdm>=4.66.0
+transformers>=4.51.0
+vllm>=0.7.0
+

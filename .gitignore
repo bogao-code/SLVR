@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Generated outputs
+out*/
+results/
+logs/
+runs/
+wandb/
+tensorboard/
+
+# Model/checkpoint artifacts
+checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Local data
+data/
+dataset/
+datasets/
+
+# OS/editor files
+.DS_Store
+*.swp
+*.swo
+
