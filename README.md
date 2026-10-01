@@ -6,8 +6,8 @@ Albert Gao · Bing Xue · Andrea Zanette
 
 This repository hosts the project page for **SLVR**.
 
-- Paper: https://openreview.net/pdf?id=GOIf9kmCHv
-- OpenReview: https://openreview.net/forum?id=GOIf9kmCHv
+- Paper: 
+
 
 ## Project page
 
